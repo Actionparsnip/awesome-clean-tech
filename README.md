@@ -101,6 +101,10 @@ Short description.
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
+  
+- [ColieCo Lingerie](https://coliecolingerie.com) | Portugal | 2011
+
+  Produce lingerie, swimwear and underwear in Portugal, exclusively from sustainable and sustainably-sourced fabrics. Manufacture-to-order in their own in-house studio using smart cutting techniques to minimise textile waste (reducing from industry standard 35% to less than 10%). 
 
 - [Organicbasics](https://organicbasics.com) | Denmark | 2015
 
